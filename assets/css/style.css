@@ -195,7 +195,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #00f2ff !important;
+  color: #83ffdc !important;
 }
 
 .navbar .getstarted,
@@ -433,8 +433,8 @@ h6 {
   border-radius: 8px;
   transition: 0.5s;
   margin: 10px 0 0 0;
-  color: #0f0f43;
-  background: #00b6ff;
+  color: #103110;
+  background: #83ffdc;
   text-align:center;
   min-width:315px;
 }
@@ -562,7 +562,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #ffff94;
+  color: #83ffdc;
 }
 
 .section-title h2::before {
@@ -582,7 +582,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background: #ffff94;
+  background: #83ffdc;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -686,7 +686,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 30px;
-  color: #ffff94;
+  color: #83ffdc;
 }
 
 .why-us .content h4 {
@@ -739,7 +739,7 @@ section {
 }
 
 .why-us .accordion-list span {
-  color: #42d1d5;
+  color: #ffff94;
   font-weight: 600;
   font-size: 18px;
   padding-right: 10px;
@@ -885,7 +885,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #ffff94;
+  color: #83ffdc;
   font-size: 36px;
   transition: 0.4s;
 }
@@ -1320,12 +1320,12 @@ section {
 }
 
 .pricing .featured {
-  border-top-color: #42d1d5;
+  border-top-color: #83ffdc;
 }
 
 .pricing .featured .buy-btn {
-  background: #330852;
-  color: #ffff79;
+  background: #83ffdc;
+  color: #103110;
 }
 
 .pricing .featured .buy-btn:hover {
@@ -1764,7 +1764,7 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Jost", sans-serif;
-  color: #42d1d5;
+  color: #83ffdc;
 }
 
 #footer .footer-top h4 {
